@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-panellist-scroll
+      name: '@local/sidebar-panellist-scroll'

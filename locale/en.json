@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar panel list scroll",
+    "description": "Caps the sidebar's global panel list at a fixed height and scrolls it inside, giving the workspace and session area the reclaimed space."
+  }
+}
